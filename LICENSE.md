@@ -1,4 +1,4 @@
-# 
+# custom nft sniper bot executor is the best nft sniper bot executor with auto-sell and wash-trading-detection. Safe, reliable, and optimized for NFT sniper, trading, and arbitrage
 
 
 
